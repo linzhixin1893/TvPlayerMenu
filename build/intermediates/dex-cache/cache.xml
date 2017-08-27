@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9c8180516c64b7aab4308f8ac67f7efc2049b9b">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6373411267cf38b77096ff1a03c0c2ea0a9f3edf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1efb1e14f4bdaaa9e530bef889f9c6f4feb61bda">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7462ece3c915cbaa2262e59a7102988e6fa18ca3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_48185a1bfdae69fb20f8955f0f9b5c59b968cfc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_57172c01eecff6fe3d1be6690c920601e89b396e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_fbe1a948eb9e4b31f3965d5766b6a885b3a747ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_cb8a220a81e594fa296ea04a98004b29cad369a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_362509a2d9a5752078dd7aa2cd0e0d0806b0f01f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_76bd47a97e334b4dbd535c97d013abab34c9971a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/linzhixin/AndroidStudioProjects/PlayerMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ae98d1e670074ffaeabcdc601ab43004b287c32d/classes.dex" />
+    </item>
+
+</items>
